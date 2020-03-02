@@ -1,0 +1,1 @@
+["Vectoring in Research"](http://cs197.stanford.edu/slides/04-vectoring.pdf) and ["Velocity in Research"](http://cs197.stanford.edu/slides/07-velocity.pdf) by [Michael Bernstein](https://hci.stanford.edu/msb/) are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
